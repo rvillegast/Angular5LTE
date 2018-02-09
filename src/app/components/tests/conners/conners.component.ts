@@ -10,7 +10,6 @@ export class ConnersComponent implements OnInit {
   constructor() { }
 
 
-
   ngOnInit() {
   }
 
