@@ -1,15 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-conners',
-  templateUrl: './conners.component.html',
+  selector: 'app-settings',
+  templateUrl: './settings.component.html',
   styles: []
 })
-export class ConnersComponent implements OnInit {
+export class SettingsComponent implements OnInit {
 
   constructor() { }
-
-
 
   ngOnInit() {
   }
